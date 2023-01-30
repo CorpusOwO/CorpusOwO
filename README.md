@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is David Pereira
 #### Full-stack developer
-![Full-stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full-stack developer]
 
-I'M a Venezuelan guy who are interesting on tech :3
+I'm a Venezuelan guy who are interesting on tech :3
 
-Skills: PHP / Laravel / Native Javascript / TailwindCSS / 
+Skills: PHP / Laravel / Native Javascript / TailwindCSS / PostgreSQL / Python
 
 - 🔭 I’m currently working on a new flask page  
 - 🌱 I’m currently learning NodeJS && ReactJS  
