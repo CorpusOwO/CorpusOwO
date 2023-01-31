@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hello! I'm David </h3>
+<h1 align="center">👋 Hello! I'm David </h1>
 <h3 align="center"> Full-stack developer </h3>
+
   <hr>
   <br>
 <div id="header" align="center">
@@ -11,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-![Profile views](https://gpvc.arturio.dev/CorpusOwO)  
 
 🇻🇪 I'm a Venezuelan guy who are interesting on tech :3 🇻🇪
 
@@ -62,11 +62,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorpusOwO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorpusOwO)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=CorpusOwO&theme=radical)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CorpusOwO)  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=CorpusOwO&theme=tokyo-night&hide_border=true&area=true)
 
-![GitHub metrics](https://metrics.lecoq.io/CorpusOwO)  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=CorpusOwO)  
