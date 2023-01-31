@@ -15,14 +15,11 @@
 
 🇻🇪 I'm a Venezuelan guy who are interesting on tech :3 🇻🇪
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently working as a Software developer. I work on both the front-end and the back-end. My stack of technologies are mainly Laravel, PostgreSQL, TaildwindCSS or Bootstrap ✨.
 
-- :seedling: Exploring Technical Content Writing.
+- 📖 Learning: NodeJS, ReactJS and VueJS
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+- :zap: In my free time, I like to play videogames, read manga, watch anime, spend time with my friends and researching about new techonologies💟.
 
 ---
 
