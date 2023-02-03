@@ -55,7 +55,7 @@
 </div>
 <hr>
 
-### 📈 My stats (don't worry, it will be growing ;3 ) :
+### 📈 My stats (it will be growing, doesn't matter when you're reading this ;3 ) :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorpusOwO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
